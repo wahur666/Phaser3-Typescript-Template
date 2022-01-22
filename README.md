@@ -1,2 +1,4 @@
-# Phaser3-Typescript-Template
-Phaser 3 tempalte with Typescrupt, Express and Webpack 5
+# express-preact-ts-webpack
+Minimal project with Express, Phaser, Typescript and Webpack setup
+
+`npm run dev`
